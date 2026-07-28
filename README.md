@@ -39,10 +39,16 @@ jupyter notebook predictive_maintenance.ipynb
 
 📷 Output
 
+<img width="700" height="238" alt="image" src="https://github.com/user-attachments/assets/55c69ce7-58ed-44a1-9de6-cd5298e93f1c" />
+
 <img width="1439" height="240" alt="image" src="https://github.com/user-attachments/assets/9b44e8cf-b5df-4142-8b9f-16802fd28ef9" />
+
 <img width="959" height="509" alt="image" src="https://github.com/user-attachments/assets/54fde844-cd60-42fc-864a-faf7f4cddec0" />
+
 <img width="534" height="95" alt="image" src="https://github.com/user-attachments/assets/192ec9b3-ded7-4efe-802f-6a95763bb542" />
+
 <img width="669" height="478" alt="image" src="https://github.com/user-attachments/assets/867dcc37-6336-421c-96db-1f7788719760" />
+
 <img width="408" height="169" alt="image" src="https://github.com/user-attachments/assets/74d4a140-ddab-40be-b07e-a93368e13945" />
 
 
