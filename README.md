@@ -85,30 +85,30 @@ Predictive-Maintenance/
 
 ### 📊 Dataset Preview
 
-<img width="700" height="238" alt="image" src="https://github.com/user-attachments/assets/55c69ce7-58ed-44a1-9de6-cd5298e93f1c" />
----
+<img width="1351" height="225" alt="image" src="https://github.com/user-attachments/assets/5cc1b684-fe72-4d19-9160-3d7d2f266730" />
 
+---
 ### 📈 Feature Importance (XGBoost)
 
-(Add Feature Importance Screenshot Here)
+<img width="891" height="504" alt="image" src="https://github.com/user-attachments/assets/030de898-5456-4029-ab4a-2912b2e90c3f" />
 
 ---
 
 ### 🧠 Multi-Layer Perceptron (MLP Classifier)
 
-(Add MLP Classifier Screenshot Here)
+<img width="590" height="84" alt="image" src="https://github.com/user-attachments/assets/2fb7a921-bcac-4b2f-9431-4d79740d9044" />
 
 ---
 
 ### 📉 Confusion Matrix
 
-(Add Confusion Matrix Screenshot Here)
+<img width="723" height="475" alt="image" src="https://github.com/user-attachments/assets/4e3d33bb-6fec-417a-9ee6-ff473712b18e" />
 
 ---
 
 ### ⚙️ Hyperparameter Tuning (GridSearchCV)
 
-(Add GridSearchCV Screenshot Here)
+<img width="403" height="173" alt="image" src="https://github.com/user-attachments/assets/1cbdcb7c-193f-447e-a567-add6c32d8698" />
 
 ---
 
